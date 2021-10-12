@@ -2,7 +2,7 @@ const mysql = require('mysql2/promise');
 const config = {
   host: 'localhost',
   user: 'root',
-  password: '1234',
+  password: 'root',
   database: 'exchange',
   multipleStatements: true,
 }
